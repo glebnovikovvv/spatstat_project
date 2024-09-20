@@ -1,6 +1,6 @@
 # README
 
-## Project Title: Spatial Analysis of Restaurants Locations
+## Spatial Analysis of Restaurants Locations
 
 ### Overview
 This project presents a comprehensive spatial analysis report developed using Python (with Geopandas) and R. It builds on my final year dissertation, which was graded as exceptional, achieving a score of 82%.The analysis focuses on understanding what affects the location choices of different types of restaurants.
